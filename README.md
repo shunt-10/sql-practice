@@ -1,2 +1,2 @@
-# Example Repo File
-This is a sample file.
+# Example for Practice
+This is just for practicing Git, thank you.
