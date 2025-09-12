@@ -1,2 +1,2 @@
-# SQL-practice
-Creating this repository to track my progress on MySQL
+# Example Repo File
+This is a sample file.
